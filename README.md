@@ -2,6 +2,12 @@
 
 This project consists of a front-end application built with Vue 3 and a back-end application for processing trade data.
 
+## Overview
+
+For an overview of the challenge, please watch the following video:
+
+[Video Overview](https://www.loom.com/share/fda6332da2b641d3a3383a7ca1853132)
+
 
 ## Back-End Project
 
