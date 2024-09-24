@@ -1,0 +1,12 @@
+version: '3.4'
+
+services:
+  testboilerplate:
+    image: testboilerplate
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    environment:
+      NODE_ENV: dev
+    ports:
+      - 3000:3000
